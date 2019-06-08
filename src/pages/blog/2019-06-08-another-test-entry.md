@@ -10,11 +10,11 @@ tags:
   - test2
   - test3
 ---
-= Heading
+# Heading
 
 Text under the heading
 
-== Lower heading
+## Lower heading
 
 ```java
 public static void main(){
